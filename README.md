@@ -5,6 +5,9 @@ I love learn new thing in programming such as Javascript, Swift, Python.
 <p>
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Atlassian-Atlassian Suite-blue?&logo=Atlassian" />
+    <img src="https://img.shields.io/badge/Task Management-Jira-blue?&logo=Jira" />
+    <img src="https://img.shields.io/badge/Doc-Confluence-blue?&logo=Confluence" />
 </p>
 
 ### Stats:
